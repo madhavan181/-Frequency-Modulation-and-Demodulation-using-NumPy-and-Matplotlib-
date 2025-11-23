@@ -54,6 +54,10 @@ s=Ac*np.cos(2*3.14*fc*t+b*np.sin(2*3.14*fm*t))
 plt.subplot(3,1,3)
 plt.plot(t,s)
 ```
+__Tabulation:__
+
+<img width="2480" height="1792" alt="image" src="https://github.com/user-attachments/assets/b19cc130-db4e-46c6-a8f2-14fe61d8fd89" />
+
 
 __Output:__
 

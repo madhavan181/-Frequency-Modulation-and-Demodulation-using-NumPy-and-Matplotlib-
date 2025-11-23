@@ -56,7 +56,8 @@ plt.plot(t,s)
 ```
 __Tabulation:__
 
-<img width="2480" height="1792" alt="image" src="https://github.com/user-attachments/assets/b19cc130-db4e-46c6-a8f2-14fe61d8fd89" />
+<img width="3312" height="2088" alt="image" src="https://github.com/user-attachments/assets/dd0ab2db-6877-4801-a243-acdc8935e7f5" />
+
 
 
 __Output:__
@@ -66,4 +67,4 @@ __Output:__
 
 __Result:__
 
-The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
+Thus the FM Modulation is generated using python and the output is verified.
